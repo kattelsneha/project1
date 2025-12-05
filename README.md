@@ -29,7 +29,8 @@ It helps a college student keep track of courses, assignments, and grades, and s
   - Shows how many courses currently have A, B, C, D, or F
 
 ---
-
+## link to presentation
+https://drive.google.com/drive/folders/1f-NNLfw0J6R3XGFV1u4YeC3f_YQdLx3x?usp=sharing
 ## How to Run
 
 1. Clone or download this repository.
@@ -41,3 +42,5 @@ Example (with `g++`):
 ```bash
 g++ -std=c++11 main.cpp -o gpa_calculator
 ./gpa_calculator
+
+
